@@ -3,7 +3,7 @@
 Companion repository for the **4-part YouTube video series** on time series analysis:
 from the theory of stochastic processes to forecasting with ARIMA models, with the Box-Jenkins workflow applied to a real dataset.
 
-> 🎥 **YouTube playlist:** www.youtube.com/@EpsilonDeltaItalia
+> 🎥 **YouTube channel:** [Epsilon Delta Italia](https://www.youtube.com/@EpsilonDeltaItalia)
 
 ## 🗂️ Episodes
 
